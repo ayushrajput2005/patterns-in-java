@@ -7,8 +7,7 @@ Welcome to the **Java Pattern Printing** repository! This repository contains Ja
 - [Overview](#overview)
 - [Patterns Included](#patterns-included)
 - [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
+- [contact me](#contact)
 
 ## Overview
 
@@ -20,8 +19,40 @@ Here are some of the patterns available in this repository:
 
 1. **Square Pattern**
      
-    * * * * *
-    * * * * *
-    * * * * *
-    * * * * *
-    * * * * *
+     * * * * *
+     * * * * *
+     * * * * *
+     * * * * *
+     * * * * *
+2. **triangle pattern**
+
+    *
+    * *
+    * * *
+    * * * * 
+    * * * * * 
+3. **pyramid pattern**
+   
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+
+## how-to-run
+**clone this repo**
+1.make folder where you like to clone it
+2. get in that folder form terminal/bash and type following command:
+    git clone https://github.com/ayushrajput2005/patterns-in-java.git
+and you are set!
+
+**how to run**
+1. compile code (make sure you have letest jdk intalled)
+    javac patternyoulike.java
+2.run
+    java patternucompiled.java
+
+## contact
+i'm ayush a newbi programmer in market! if you find this <br>
+helpful, or want any change feel free to suggest me at <br>
+ayushrajput16102005@gmail.com   thanks... :)
+
