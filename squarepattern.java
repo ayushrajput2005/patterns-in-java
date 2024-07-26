@@ -1,4 +1,4 @@
-public class squarepatter {
+public class squarepattern {
     public static void main(String args[]) {
         int n = 5; //number of rows
         int m = 5; //number of coloumns
