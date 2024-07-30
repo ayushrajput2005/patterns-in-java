@@ -13,30 +13,12 @@ Welcome to the **Java Pattern Printing** repository!<br> This repository contain
 
 This repository provides Java code examples for printing different types of patterns.<br> Each Java file in the repository represents a different pattern and<br> includes explanations and comments to aid in comprehension.
 
-## Patterns Included
+## Patterns Include
+Here are patterns I made in this repository<br>
+[square pattern](squarepattern.java)<br>
+[triangle pattern](triangle.java)<br>
 
-Here are some of the patterns available in this repository:<br>
 
-1. **Square Pattern**
-     
-     * * * * *<br>
-     * * * * *<br>
-     * * * * *<br>
-     * * * * *<br>
-     * * * * *<br>
-2. **triangle pattern**
-
-    *<br>
-    * *<br>
-    * * *<br>
-    * * * * <br>
-    * * * * * <br>
-3. **pyramid pattern**
-   
-        * <br>
-      * * * <br>
-    * * * * * <br>
-  * * * * * * * <br>
 
 ## how-to-run
 **clone this repo**
