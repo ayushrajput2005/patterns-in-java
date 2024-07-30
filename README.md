@@ -18,6 +18,7 @@ Here are patterns I made in this repository<br>
 [square pattern](squarepattern.java)<br>
 [triangle pattern](triangle.java)<br>
 [inverted triangle](invertedtriangle.java)<br>
+[number triangle](numbertriangle.java)
 
 
 
