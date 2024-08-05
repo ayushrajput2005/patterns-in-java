@@ -22,7 +22,7 @@ Here are patterns I made in this repository<br>
 [Alphabet Triangle](characterpattern.java)<br>
 [Hollow Rectangle](hollowrect.java)<br>
 [Inverted Half Pyramid ](invertedhaldpyramid.java)<br>
-[Floyds triangle](floyds_triangle.java)<br>
+[Floyd's triangle](floyds_triangle.java)<br>
 
 
 
