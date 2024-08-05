@@ -15,12 +15,13 @@ This repository provides Java code examples for printing different types of patt
 
 ## Patterns Include
 Here are patterns I made in this repository<br>
-[square pattern](squarepattern.java)<br>
-[triangle pattern](triangle.java)<br>
-[inverted triangle](invertedtriangle.java)<br>
-[number triangle](numbertriangle.java)<br>
-[alphabet triangle](characterpattern.java)<br>
-[Hollow rectangle](hollowrect.java)<br>
+[Square Pattern](squarepattern.java)<br>
+[Triangle Pattern](triangle.java)<br>
+[Inverted Triangle](invertedtriangle.java)<br>
+[Number Triangle](numbertriangle.java)<br>
+[Alphabet Triangle](characterpattern.java)<br>
+[Hollow Rectangle](hollowrect.java)<br>
+[Inverted Half Pyramid ](invertedhaldpyramid.java)<br>
 
 
 
