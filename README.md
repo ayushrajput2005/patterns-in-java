@@ -20,6 +20,7 @@ Here are patterns I made in this repository<br>
 [inverted triangle](invertedtriangle.java)<br>
 [number triangle](numbertriangle.java)<br>
 [alphabet triangle](characterpattern.java)<br>
+[Hollow rectangle](hollowrect.java)<br>
 
 
 
