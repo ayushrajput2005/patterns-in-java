@@ -24,6 +24,7 @@ Here are patterns I made in this repository<br>
 [Inverted Half Pyramid ](invertedhaldpyramid.java)<br>
 [Floyd's triangle](floyds_triangle.java)<br>
 [0-1 Triangle](bytetriangle.java)<br>
+[Butterfly Pattern](butterflypattern.java)<br>
 
 
 
